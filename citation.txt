@@ -1,0 +1,8 @@
+@article{REPO204,
+    author = "Yang, Rongjian and Zhang, Zhijie and Zheng, Weiguo and Yu, Jeffrey Xu",
+    journal = "Proc. ACM Manag. Data",
+    number = "1",
+    title = "{Fast Continuous Subgraph Matching over Streaming Graphs via Backtracking Reduction}",
+    volume = "1",
+    year = "2023"
+}
