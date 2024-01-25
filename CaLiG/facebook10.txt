@@ -1,0 +1,200 @@
+Q4 q1 updated matches: 2920 backtrackings:442
+Updating totally cost(ms) : 9
+Q4 q2 updated matches: 19126 backtrackings:327
+Updating totally cost(ms) : 4
+Q4 q3 updated matches: 14301 backtrackings:333
+Updating totally cost(ms) : 7
+Q4 q4 updated matches: 2820 backtrackings:396
+Updating totally cost(ms) : 10
+Q4 q5 updated matches: 2639 backtrackings:464
+Updating totally cost(ms) : 9
+Q4 q6 updated matches: 7797 backtrackings:379
+Updating totally cost(ms) : 4
+Q4 q7 updated matches: 16779 backtrackings:359
+Updating totally cost(ms) : 6
+Q4 q8 updated matches: 50538 backtrackings:357
+Updating totally cost(ms) : 3
+Q4 q9 updated matches: 2876 backtrackings:470
+Updating totally cost(ms) : 7
+Q4 q10 updated matches: 8434 backtrackings:391
+Updating totally cost(ms) : 9
+Q4 q11 updated matches: 3764 backtrackings:478
+Updating totally cost(ms) : 7
+Q4 q12 updated matches: 7580 backtrackings:414
+Updating totally cost(ms) : 8
+Q4 q13 updated matches: 18799 backtrackings:387
+Updating totally cost(ms) : 8
+Q4 q14 updated matches: 4348 backtrackings:448
+Updating totally cost(ms) : 9
+Q4 q15 updated matches: 3588 backtrackings:366
+Updating totally cost(ms) : 7
+Q4 q16 updated matches: 21755 backtrackings:369
+Updating totally cost(ms) : 4
+Q4 q17 updated matches: 83784 backtrackings:344
+Updating totally cost(ms) : 7
+Q4 q18 updated matches: 1846 backtrackings:354
+Updating totally cost(ms) : 8
+Q4 q19 updated matches: 7853 backtrackings:408
+Updating totally cost(ms) : 4
+Q4 q20 updated matches: 5342 backtrackings:411
+Updating totally cost(ms) : 6
+Q4 q21 updated matches: 17218 backtrackings:350
+Updating totally cost(ms) : 7
+Q4 q22 updated matches: 4610 backtrackings:482
+Updating totally cost(ms) : 10
+Q4 q23 updated matches: 6697 backtrackings:366
+Updating totally cost(ms) : 7
+Q4 q24 updated matches: 3730 backtrackings:427
+Updating totally cost(ms) : 9
+Q4 q25 updated matches: 4481 backtrackings:387
+Updating totally cost(ms) : 5
+Q4 q26 updated matches: 18076 backtrackings:380
+Updating totally cost(ms) : 5
+Q4 q27 updated matches: 75766 backtrackings:347
+Updating totally cost(ms) : 4
+Q4 q28 updated matches: 16326 backtrackings:353
+Updating totally cost(ms) : 6
+Q4 q29 updated matches: 5404 backtrackings:396
+Updating totally cost(ms) : 6
+Q4 q30 updated matches: 3870 backtrackings:437
+Updating totally cost(ms) : 13
+Q4 q31 updated matches: 73209 backtrackings:338
+Updating totally cost(ms) : 7
+Q4 q32 updated matches: 3982 backtrackings:454
+Updating totally cost(ms) : 9
+Q4 q33 updated matches: 7803 backtrackings:358
+Updating totally cost(ms) : 4
+Q4 q34 updated matches: 12912 backtrackings:345
+Updating totally cost(ms) : 4
+Q4 q35 updated matches: 6359 backtrackings:475
+Updating totally cost(ms) : 8
+Q4 q36 updated matches: 21105 backtrackings:356
+Updating totally cost(ms) : 5
+Q4 q37 updated matches: 6800 backtrackings:359
+Updating totally cost(ms) : 5
+Q4 q38 updated matches: 4628 backtrackings:362
+Updating totally cost(ms) : 6
+Q4 q39 updated matches: 13672 backtrackings:320
+Updating totally cost(ms) : 6
+Q4 q40 updated matches: 11026 backtrackings:342
+Updating totally cost(ms) : 4
+Q4 q41 updated matches: 20945 backtrackings:354
+Updating totally cost(ms) : 6
+Q4 q42 updated matches: 13841 backtrackings:398
+Updating totally cost(ms) : 5
+Q4 q43 updated matches: 56519 backtrackings:326
+Updating totally cost(ms) : 3
+Q4 q44 updated matches: 6282 backtrackings:409
+Updating totally cost(ms) : 6
+Q4 q45 updated matches: 22868 backtrackings:377
+Updating totally cost(ms) : 7
+Q4 q46 updated matches: 6606 backtrackings:346
+Updating totally cost(ms) : 5
+Q4 q47 updated matches: 13581 backtrackings:443
+Updating totally cost(ms) : 8
+Q4 q48 updated matches: 3968 backtrackings:424
+Updating totally cost(ms) : 7
+Q4 q49 updated matches: 2239 backtrackings:528
+Updating totally cost(ms) : 9
+Q4 q50 updated matches: 16972 backtrackings:374
+Updating totally cost(ms) : 6
+Q6 q1 updated matches: 314546 backtrackings:604
+Updating totally cost(ms) : 156
+Q6 q2 updated matches: 216688 backtrackings:630
+Updating totally cost(ms) : 118
+Q6 q3 updated matches: 4445178 backtrackings:539
+Updating totally cost(ms) : 145
+Q6 q4 updated matches: 22936 backtrackings:765
+Updating totally cost(ms) : 71
+Q6 q5 updated matches: 13137925 backtrackings:590
+Updating totally cost(ms) : 466
+Q6 q6 updated matches: 92596 backtrackings:714
+Updating totally cost(ms) : 46
+Q6 q7 updated matches: 263328 backtrackings:649
+Updating totally cost(ms) : 77
+Q6 q8 updated matches: 415450 backtrackings:724
+Updating totally cost(ms) : 104
+Q6 q9 updated matches: 21060 backtrackings:614
+Updating totally cost(ms) : 60
+Q6 q10 updated matches: 218940 backtrackings:537
+Updating totally cost(ms) : 264
+Q6 q11 updated matches: 1945701 backtrackings:616
+Updating totally cost(ms) : 65
+Q6 q12 updated matches: 440885 backtrackings:649
+Updating totally cost(ms) : 110
+Q6 q13 updated matches: 156816 backtrackings:575
+Updating totally cost(ms) : 78
+Q6 q14 updated matches: 14980576 backtrackings:555
+Updating totally cost(ms) : 396
+Q6 q15 updated matches: 61256 backtrackings:409
+Updating totally cost(ms) : 21
+Q6 q16 updated matches: 61445 backtrackings:729
+Updating totally cost(ms) : 56
+Q6 q17 updated matches: 24704 backtrackings:776
+Updating totally cost(ms) : 74
+Q6 q18 updated matches: 30378 backtrackings:824
+Updating totally cost(ms) : 100
+Q6 q19 updated matches: 223592 backtrackings:578
+Updating totally cost(ms) : 98
+Q6 q20 updated matches: 87650 backtrackings:772
+Updating totally cost(ms) : 154
+Q6 q21 updated matches: 242268 backtrackings:516
+Updating totally cost(ms) : 45
+Q6 q22 updated matches: 103999 backtrackings:689
+Updating totally cost(ms) : 122
+Q6 q23 updated matches: 347052 backtrackings:648
+Updating totally cost(ms) : 1096
+Q6 q24 updated matches: 185004 backtrackings:449
+Updating totally cost(ms) : 36
+Q6 q25 updated matches: 148000 backtrackings:534
+Updating totally cost(ms) : 84
+Q6 q26 updated matches: 73420 backtrackings:704
+Updating totally cost(ms) : 120
+Q6 q27 updated matches: 118616 backtrackings:537
+Updating totally cost(ms) : 92
+Q6 q28 updated matches: 100021 backtrackings:753
+Updating totally cost(ms) : 211
+Q6 q29 updated matches: 3968 backtrackings:374
+Updating totally cost(ms) : 24
+Q6 q30 updated matches: 240252 backtrackings:504
+Updating totally cost(ms) : 619
+Q6 q31 updated matches: 87053 backtrackings:772
+Updating totally cost(ms) : 125
+Q6 q32 updated matches: 799140 backtrackings:540
+Updating totally cost(ms) : 79
+Q6 q33 updated matches: 72162 backtrackings:628
+Updating totally cost(ms) : 160
+Q6 q34 updated matches: 49250 backtrackings:704
+Updating totally cost(ms) : 73
+Q6 q35 updated matches: 57974960 backtrackings:522
+Updating totally cost(ms) : 787
+Q6 q36 updated matches: 41460 backtrackings:573
+Updating totally cost(ms) : 81
+Q6 q37 updated matches: 2013558 backtrackings:629
+Updating totally cost(ms) : 130
+Q6 q38 updated matches: 8148 backtrackings:598
+Updating totally cost(ms) : 47
+Q6 q39 updated matches: 506300 backtrackings:684
+Updating totally cost(ms) : 221
+Q6 q40 updated matches: 65288 backtrackings:712
+Updating totally cost(ms) : 193
+Q6 q41 updated matches: 41484 backtrackings:606
+Updating totally cost(ms) : 164
+Q6 q42 updated matches: 622653 backtrackings:690
+Updating totally cost(ms) : 80
+Q6 q43 updated matches: 593904 backtrackings:544
+Updating totally cost(ms) : 82
+Q6 q44 updated matches: 43760 backtrackings:781
+Updating totally cost(ms) : 72
+Q6 q45 updated matches: 193054 backtrackings:595
+Updating totally cost(ms) : 173
+Q6 q46 updated matches: 2918691 backtrackings:643
+Updating totally cost(ms) : 95
+Q6 q47 updated matches: 718984 backtrackings:559
+Updating totally cost(ms) : 44
+Q6 q48 updated matches: 58992 backtrackings:558
+Updating totally cost(ms) : 209
+Q6 q49 updated matches: 284900 backtrackings:676
+Updating totally cost(ms) : 40
+Q6 q50 updated matches: 147603 backtrackings:743
+Updating totally cost(ms) : 53
